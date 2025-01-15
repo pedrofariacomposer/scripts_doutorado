@@ -16,7 +16,7 @@ diminuendo = Envelope.from_levels([0.8, 0.3]) # envelope para diminuendo
 interval = 1 # intervalo inicial de um semitom
 cello_pitch = 48 # altura inicial
 bar_lines = [] # lista de tempos onde vão estar as barras de compasso
-
+s.fast_forward(100)
 while s.time() < 60:  #início do processo musical
     if random() < 0.7:
         cello.play_note(cello_pitch, forte_piano, choice([1.0, 1.5]))
@@ -27,8 +27,3 @@ while s.time() < 60:  #início do processo musical
     cello_pitch = wrap_in_range(cello_pitch + interval, 36, 60)
     interval += 1
 s.stop_transcribing().to_score(bar_line_locations=bar_lines).show() # termina a transcrição e gera a partitura
-
-
-
-
-
