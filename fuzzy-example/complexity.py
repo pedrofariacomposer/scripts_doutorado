@@ -14,9 +14,12 @@ def group_rhythm(rhythm, size, next_group):
             i += len(rhythm)
     return groups
 
-def complexity(rhythm, size=3, next_group=2):
+def complexity(rhythm, size=3, next_group=2, contours=None):
     groups = group_rhythm(rhythm, size=size, next_group=next_group)
-    contours = all_contours(size)
+    if contours:
+        contours = contours
+    else:
+        contours = all_contours(size)
     contours_groups = [contour(el) for el in groups]
     h_three = 0
     for c in contours:

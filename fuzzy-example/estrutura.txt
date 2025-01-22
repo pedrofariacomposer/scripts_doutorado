@@ -1,0 +1,504 @@
+COMPASSO 1
+[0.5, 1.0, 0.25, 0.75, 1.5, 1.25, 1.75]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.524415591297121
+--------------------------------------
+COMPASSO 2
+[1.0, 0.25, 0.75, 1.5, 1.25, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  1.154
+Índice na tabela de partições:  18.21324587356308
+--------------------------------------
+COMPASSO 3
+[0.25, 0.75, 1.5, 1.25, 1.75, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 4
+[0.75, 1.5, 1.25, 1.75, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 5
+[1.5, 1.25, 1.75, 0.5, 1.0, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 6
+[1.25, 1.75, 0.5, 1.0, 0.25, 0.75, 1.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.625567627818814
+--------------------------------------
+COMPASSO 7
+[1.75, 0.5, 1.0, 0.25, 0.75, 1.5, 1.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 8
+[0.5, 1.0, 0.25, 0.75, 1.5, 1.25, 1.75]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.524415591297121
+--------------------------------------
+COMPASSO 9
+[1.0, 0.25, 0.75, 1.5, 1.25, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.524415591297121
+--------------------------------------
+COMPASSO 10
+[0.25, 0.75, 1.5, 1.25, 1.75, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 11
+[0.75, 1.5, 1.25, 1.75, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 12
+[1.5, 1.25, 1.75, 0.5, 1.0, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 13
+[0.5, 1.0, 0.25, 0.75, 1.25, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 14
+[1.0, 0.25, 0.75, 1.25, 1.75, 1.5, 0.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  1.154
+Índice na tabela de partições:  18.21324587356308
+--------------------------------------
+COMPASSO 15
+[0.25, 0.75, 1.25, 1.75, 1.5, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 16
+[0.75, 1.25, 1.75, 1.5, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 17
+[1.25, 1.75, 1.5, 0.5, 1.0, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 18
+[1.75, 1.5, 0.5, 1.0, 0.25, 0.75, 1.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 19
+[1.5, 0.5, 1.0, 0.25, 0.75, 1.25, 1.75]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  17.20171963834701
+--------------------------------------
+COMPASSO 20
+[0.5, 1.0, 0.25, 0.75, 1.25, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 21
+[1.0, 0.25, 0.75, 1.25, 1.75, 1.5, 0.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 22
+[0.25, 0.75, 1.25, 1.75, 1.5, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 23
+[0.75, 1.25, 1.75, 1.5, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 24
+[1.25, 1.75, 1.5, 0.5, 1.0, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 25
+[0.5, 1.0, 0.25, 1.25, 0.75, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 26
+[1.0, 0.25, 1.25, 0.75, 1.75, 1.5, 0.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  1.154
+Índice na tabela de partições:  18.522597376206377
+--------------------------------------
+COMPASSO 27
+[0.25, 1.25, 0.75, 1.75, 1.5, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 28
+[1.25, 0.75, 1.75, 1.5, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 29
+[0.75, 1.75, 1.5, 0.5, 1.0, 0.25, 1.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.524415591297121
+--------------------------------------
+COMPASSO 30
+[1.75, 1.5, 0.5, 1.0, 0.25, 1.25, 0.75]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 31
+[1.5, 0.5, 1.0, 0.25, 1.25, 0.75, 1.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 32
+[0.5, 1.0, 0.25, 1.25, 0.75, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 33
+[1.0, 0.25, 1.25, 0.75, 1.75, 1.5, 0.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 34
+[0.25, 1.25, 0.75, 1.75, 1.5, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 35
+[1.25, 0.75, 1.75, 1.5, 0.5, 1.0, 0.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 36
+[0.75, 1.75, 1.5, 0.5, 1.0, 0.25, 1.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.524415591297121
+--------------------------------------
+COMPASSO 37
+[0.5, 1.0, 1.25, 1.5, 1.75, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.599281309803809
+--------------------------------------
+COMPASSO 38
+[1.0, 1.25, 1.5, 1.75, 0.25, 0.75, 0.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  1.154
+Índice na tabela de partições:  18.21324587356308
+--------------------------------------
+COMPASSO 39
+[1.25, 1.5, 1.75, 0.25, 0.75, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 40
+[1.5, 1.75, 0.25, 0.75, 0.5, 1.0, 1.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 41
+[1.75, 0.25, 0.75, 0.5, 1.0, 1.25, 1.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 42
+[0.25, 0.75, 0.5, 1.0, 1.25, 1.5, 1.75]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 43
+[0.75, 0.5, 1.0, 1.25, 1.5, 1.75, 0.25]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  17.563936131393156
+--------------------------------------
+COMPASSO 44
+[0.5, 1.0, 1.25, 1.5, 1.75, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.599281309803809
+--------------------------------------
+COMPASSO 45
+[1.0, 1.25, 1.5, 1.75, 0.25, 0.75, 0.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 46
+[1.25, 1.5, 1.75, 0.25, 0.75, 0.5, 1.0]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 47
+[1.5, 1.75, 0.25, 0.75, 0.5, 1.0, 1.25]
+Heterogeneidade rítmicas:  0.627
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 48
+[1.75, 0.25, 0.75, 0.5, 1.0, 1.25, 1.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 49
+[0.5, 0.25, 0.75, 1.0, 1.25, 1.5, 1.75]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.091419245585437
+--------------------------------------
+COMPASSO 50
+[0.25, 0.75, 1.0, 1.25, 1.5, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  1.154
+Índice na tabela de partições:  21.407133893877692
+--------------------------------------
+COMPASSO 51
+[0.75, 1.0, 1.25, 1.5, 1.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 52
+[1.0, 1.25, 1.5, 1.75, 0.5, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 53
+[1.25, 1.5, 1.75, 0.5, 0.25, 0.75, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 54
+[1.5, 1.75, 0.5, 0.25, 0.75, 1.0, 1.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 55
+[1.75, 0.5, 0.25, 0.75, 1.0, 1.25, 1.5]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  17.563936131393156
+--------------------------------------
+COMPASSO 56
+[0.5, 0.25, 0.75, 1.0, 1.25, 1.5, 1.75]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.091419245585437
+--------------------------------------
+COMPASSO 57
+[0.25, 0.75, 1.0, 1.25, 1.5, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.091419245585437
+--------------------------------------
+COMPASSO 58
+[0.75, 1.0, 1.25, 1.5, 1.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 59
+[1.0, 1.25, 1.5, 1.75, 0.5, 0.25, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 60
+[1.25, 1.5, 1.75, 0.5, 0.25, 0.75, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 61
+[0.5, 0.25, 1.0, 0.75, 1.5, 1.25, 1.75]
+Heterogeneidade rítmicas:  0.262
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.518936155124434
+--------------------------------------
+COMPASSO 62
+[0.25, 1.0, 0.75, 1.5, 1.25, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  1.154
+Índice na tabela de partições:  18.522597376206377
+--------------------------------------
+COMPASSO 63
+[1.0, 0.75, 1.5, 1.25, 1.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 64
+[0.75, 1.5, 1.25, 1.75, 0.5, 0.25, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  16.841459242304122
+--------------------------------------
+COMPASSO 65
+[1.5, 1.25, 1.75, 0.5, 0.25, 1.0, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 66
+[1.25, 1.75, 0.5, 0.25, 1.0, 0.75, 1.5]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 67
+[1.75, 0.5, 0.25, 1.0, 0.75, 1.5, 1.25]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  17.20171963834701
+--------------------------------------
+COMPASSO 68
+[0.5, 0.25, 1.0, 0.75, 1.5, 1.25, 1.75]
+Heterogeneidade rítmicas:  0.262
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.518936155124434
+--------------------------------------
+COMPASSO 69
+[0.25, 1.0, 0.75, 1.5, 1.25, 1.75, 0.5]
+Heterogeneidade rítmicas:  0.411
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.379170679557228
+--------------------------------------
+COMPASSO 70
+[1.0, 0.75, 1.5, 1.25, 1.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 71
+[0.75, 1.5, 1.25, 1.75, 0.5, 0.25, 1.0]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  16.241105069223817
+--------------------------------------
+COMPASSO 72
+[1.5, 1.25, 1.75, 0.5, 0.25, 1.0, 0.75]
+Heterogeneidade rítmicas:  0.519
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.129144721310407
+--------------------------------------
+COMPASSO 73
+[1.75, 1.5, 1.25, 1.0, 0.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  -0.0
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.140074992361797
+--------------------------------------
+COMPASSO 74
+[1.5, 1.25, 1.0, 0.75, 0.5, 0.25, 1.75]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  1.154
+Índice na tabela de partições:  21.407133893877692
+--------------------------------------
+COMPASSO 75
+[1.25, 1.0, 0.75, 0.5, 0.25, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 76
+[1.0, 0.75, 0.5, 0.25, 1.75, 1.5, 1.25]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  17.563936131393156
+--------------------------------------
+COMPASSO 77
+[0.75, 0.5, 0.25, 1.75, 1.5, 1.25, 1.0]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.599281309803809
+--------------------------------------
+COMPASSO 78
+[0.5, 0.25, 1.75, 1.5, 1.25, 1.0, 0.75]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 79
+[0.25, 1.75, 1.5, 1.25, 1.0, 0.75, 0.5]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  2.2079999999999997
+Índice na tabela de partições:  19.177907991556083
+--------------------------------------
+COMPASSO 80
+[1.75, 1.5, 1.25, 1.0, 0.75, 0.5, 0.25]
+Heterogeneidade rítmicas:  -0.0
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.140074992361797
+--------------------------------------
+COMPASSO 81
+[1.5, 1.25, 1.0, 0.75, 0.5, 0.25, 1.75]
+Heterogeneidade rítmicas:  0.195
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  9.091419245585437
+--------------------------------------
+COMPASSO 82
+[1.25, 1.0, 0.75, 0.5, 0.25, 1.75, 1.5]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 83
+[1.0, 0.75, 0.5, 0.25, 1.75, 1.5, 1.25]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  2.5380000000000003
+Índice na tabela de partições:  17.012131744087217
+--------------------------------------
+COMPASSO 84
+[0.75, 0.5, 0.25, 1.75, 1.5, 1.25, 1.0]
+Heterogeneidade rítmicas:  0.37
+Índice de consonância:  4.754999999999999
+Índice na tabela de partições:  8.599281309803809
+--------------------------------------

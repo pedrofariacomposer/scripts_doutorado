@@ -8,7 +8,7 @@
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore 4.4.3</software>
-      <encoding-date>2025-01-10</encoding-date>
+      <encoding-date>2025-01-16</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -18,24 +18,23 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>6.99912</millimeters>
+      <millimeters>6.99911</millimeters>
       <tenths>40</tenths>
       </scaling>
-    <concert-score/>
     <page-layout>
-      <page-height>1696.93</page-height>
+      <page-height>1696.94</page-height>
       <page-width>1200.48</page-width>
       <page-margins type="even">
-        <left-margin>85.725</left-margin>
-        <right-margin>85.725</right-margin>
-        <top-margin>85.725</top-margin>
-        <bottom-margin>85.725</bottom-margin>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>85.725</left-margin>
-        <right-margin>85.725</right-margin>
-        <top-margin>85.725</top-margin>
-        <bottom-margin>85.725</bottom-margin>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
         </page-margins>
       </page-layout>
     <appearance>
@@ -68,48 +67,40 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="600.241173" default-y="1611.208292" justify="center" valign="top" font-size="22">Untitled score</credit-words>
+    <credit-words default-x="600.241935" default-y="1611.210312" justify="center" valign="top" font-size="22">Untitled score</credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>
-    <credit-words default-x="600.241173" default-y="1554.058251" justify="center" valign="top" font-size="14">Subtitle</credit-words>
+    <credit-words default-x="600.241935" default-y="1554.060198" justify="center" valign="top" font-size="14">Subtitle</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1114.75731" default-y="1511.208419" justify="right" valign="bottom">Composer / arranger</credit-words>
+    <credit-words default-x="1114.7587" default-y="1511.210312" justify="right" valign="bottom">Composer / arranger</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
-      <part-name>Clarinet in Bb</part-name>
-      <part-name-display>
-        <display-text>Clarinet in B</display-text>
-        <accidental-text>flat</accidental-text>
-        </part-name-display>
-      <part-abbreviation>Cl. in Bb</part-abbreviation>
-      <part-abbreviation-display>
-        <display-text>Cl. in B</display-text>
-        <accidental-text>flat</accidental-text>
-        </part-abbreviation-display>
+      <part-name>Flute</part-name>
+      <part-abbreviation>Fl.</part-abbreviation>
       <score-instrument id="P1-I1">
-        <instrument-name>Clarinet</instrument-name>
-        <instrument-sound>wind.reed.clarinet.bflat</instrument-sound>
+        <instrument-name>Flute</instrument-name>
+        <instrument-sound>wind.flutes.flute</instrument-sound>
         </score-instrument>
       <midi-device id="P1-I1" port="1"></midi-device>
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
-        <midi-program>72</midi-program>
+        <midi-program>74</midi-program>
         <volume>78.7402</volume>
         <pan>0</pan>
         </midi-instrument>
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="234.9">
+    <measure number="1" width="979.03">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>50</left-margin>
-            <right-margin>744.13</right-margin>
+            <right-margin>-0</right-margin>
             </system-margins>
           <top-system-distance>170</top-system-distance>
           </system-layout>
@@ -120,75 +111,101 @@
           <fifths>0</fifths>
           </key>
         <time>
-          <beats>7</beats>
-          <beat-type>8</beat-type>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
           </time>
         <clef>
           <sign>G</sign>
           <line>2</line>
           </clef>
-        <for-part>
-          <part-transpose>
-            <diatonic>-1</diatonic>
-            <chromatic>-2</chromatic>
-            </part-transpose>
-          </for-part>
         </attributes>
-      <note default-x="78.22" default-y="-50">
+      <note default-x="80.21" default-y="-15">
         <pitch>
           <step>C</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-        </note>
-      <note default-x="113.79" default-y="-40">
-        <pitch>
-          <step>E</step>
-          <alter>-1</alter>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>flat</accidental>
-        <stem>up</stem>
-        </note>
-      <note default-x="137.5" default-y="-45">
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>1</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
+        <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
-      <note default-x="161.22" default-y="-30">
+      <note default-x="191.19" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="302.17" default-y="5">
         <pitch>
           <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="413.15" default-y="20">
+        <pitch>
+          <step>C</step>
+          <octave>6</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        </note>
+      <note default-x="524.12" default-y="-20">
+        <pitch>
+          <step>B</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
         </note>
-      <note default-x="188.33" default-y="-45">
+      <note default-x="635.1" default-y="-10">
         <pitch>
           <step>D</step>
-          <alter>-1</alter>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
-        <duration>2</duration>
+        <duration>1</duration>
         <voice>1</voice>
-        <type>quarter</type>
-        <accidental>flat</accidental>
-        <stem>up</stem>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="746.08" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="857.06" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>

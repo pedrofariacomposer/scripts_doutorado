@@ -9,12 +9,16 @@ from skfuzzy import control as ctrl
 import music21 as m21
 
 
-def fuzzy_rtc(filename):
+def fuzzy_rtc(filename, xmlfile=True, params=[3,2]):
 
-    trecho = m21.converter.parse(filename).flatten().stripTies()
+    if xmlfile:
+        trecho = m21.converter.parse(filename).flatten().stripTies()
+    else:
+        trecho = filename
     pitches = [x.pitch.midi for x in trecho.notes]
     rit = [x.quarterLength for x in trecho.notes]
-    comp = complexity(rit)
+    print(rit)
+    comp = complexity(rit, size=params[0], next_group=params[1])
     diss = dissonance(pitches)
 
     # Step 1: Define the fuzzy sets for input variables (complexity and dissonance)
@@ -33,12 +37,12 @@ def fuzzy_rtc(filename):
     dissonance_mf['high'] = fuzz.trimf(dissonance_mf.universe, [5458, 10915, 10915])
 
     # Step 2: Define the fuzzy sets for output variable (texture)
-    texture_mf = ctrl.Consequent(np.arange(0, 21, 1), 'texture')
+    texture_mf = ctrl.Consequent(np.arange(0, 39, 1), 'texture')
 
     # Membership functions for cost benefit
-    texture_mf['low'] = fuzz.trimf(texture_mf.universe, [0, 0, 10])
-    texture_mf['mid'] = fuzz.trimf(texture_mf.universe, [0, 10, 20])
-    texture_mf['high'] = fuzz.trimf(texture_mf.universe, [10, 20, 20])
+    texture_mf['low'] = fuzz.trimf(texture_mf.universe, [0, 0, 19])
+    texture_mf['mid'] = fuzz.trimf(texture_mf.universe, [0, 19, 38])
+    texture_mf['high'] = fuzz.trimf(texture_mf.universe, [19, 38, 38])
 
     # Step 3: Define the fuzzy rules
     rule1 = ctrl.Rule(complexity_mf['high'] & dissonance_mf['high'], texture_mf['low'])
